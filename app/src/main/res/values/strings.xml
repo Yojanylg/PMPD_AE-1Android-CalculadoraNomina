@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalculadoraNomina</string>
+    <string name="pagas_anuales">Pagas anuales</string>
+    <string name="edad">Edad</string>
+    <string name="numero_de_hijos">Numero de Hijos</string>
+    <string name="discapacidad">Discapacidad</string>
+    <string name="salario_bruto_anual">Salario Bruto anual</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="retencion_irpf">Retencion IRPF</string>
+    <string name="salario_neto_anual">Salario Neto Anual</string>
+    <string name="cacular_salario_neto">Cacular Salario Neto</string>
+    <string name="ingresa_salario_bruto_anual">Ingresa salario bruto anual</string>
+</resources>
